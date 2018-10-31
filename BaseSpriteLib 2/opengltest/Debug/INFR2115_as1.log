@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\100693403\desktop\basespritelib 2\opengltest\sprite.h(109): warning C4018: '>=': signed/unsigned mismatch
+c:\users\100693403\desktop\basespritelib 2\opengltest\drawprimitives.h(118): warning C4018: '<': signed/unsigned mismatch
+  INFR2115_as1.vcxproj -> C:\Users\100693403\Desktop\BaseSpriteLib 2\Debug\SpriteAnimation.exe
